@@ -133,7 +133,7 @@ const downloadPDF = () => {
 
     // Generate dynamic file name based on billTo.name
     const fileName = billTo.name
-      ? `${billTo.name.replace(/\s+/g, "_")}_Zles_Invoice.pdf`
+      ? `${billTo.name.replace(/\s+/g, "_")}_dipas_Invoice.pdf`
       : "invoice.pdf";
       
     pdf.save(fileName); // Download the PDF
