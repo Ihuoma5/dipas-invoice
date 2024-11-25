@@ -180,7 +180,7 @@ const downloadPDF = () => {
     <p className="mt-2 mb-1"><strong>Dipas Raven LTD.</strong></p>
     <p className="mt-2 mb-1"><strong>Head Office:</strong></p>
     <p className="mb-1">BPF5 Banex Plaza Wuse 2, Abuja</p>
-    <p className="mb-1">Tel: 08036444911, 08172051315</p>
+    <p className="mb-1">Tel: 08036444911, 07068879690</p>
     <p className="mb-1">Email:dipasraven@yahoo.com</p>
     
    
